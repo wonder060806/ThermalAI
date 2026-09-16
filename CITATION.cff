@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use ThermalAI, please cite this software repository."
+title: "ThermalAI: Reproducible operator-learning workflows for chip thermal simulation"
+type: software
+authors:
+  - family-names: "wonder060806"
+repository-code: "https://github.com/wonder060806/ThermalAI"
+license: MIT
+version: 0.1.0
+date-released: 2026-09-16
